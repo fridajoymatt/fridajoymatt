@@ -18,6 +18,7 @@
 
 <br/> 
 
+
 <h2 align="center">My Skill Set</h2>
 
 <table align="center"><tr><td valign="top" width="33%">
@@ -85,6 +86,11 @@
 </td></tr></table>
 
 <br/>
+
+<h2 align="center">My Project </h2>
+<p>I am setting up a computer startup called STACKX Software, Technology, Applications, Design, and Creativity. <br> STACKX will be responsible for providing computer solutions and will go even further in the future with embedded systems. I also create automations using the Notion tool for invoices, to-do lists, and more. We also offer training and service provision services. This can expand later to include design services and photography (image processing studio), so that we can create multiple branches within STACKX, each with its own specialized team. We will also build a customer service team that we can make available to our clients for whom we have developed web or mobile applications.</p>
+<br/> 
+
 
 <h2 align="center">Connect with me</h2>
 
