@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://laravel.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="300" width="300" /></a>
+  <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" />
 </div> 
+
  
 <h3 align="center">Hi, I'm Firdaous, web developer</h3>   
     
