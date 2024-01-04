@@ -5,11 +5,11 @@
 </div> 
 
  
-<h3 align="center">Hi, I'm Firdaous, web developer</h3>   
+<h3 align="center">Hi, I'm Firdaous, fullstack developer Junior</h3>   
     
 <br/>   
    
-<p align="center">💻 Full-stack WEB Developer and customer support.</p>   
+<p align="center">💻 Full-stack Developer Junior and customer support.</p>   
  
 <p align="center">🚀 Passionate about programming and technology.</p>   
 
