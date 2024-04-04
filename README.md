@@ -15,7 +15,7 @@
 
 <p align="center">🔭 I’m currently working on a Customer Support platform. And Programming Formation Plateform</p> 
 
-<p align="center">🌱 I’m currently learning React and React Native.</p>
+<p align="center">🌱 I’m currently learning React and React Native.</p> 
 
 <p align="center">Bilingual Person (French | English)</p> 
 
