@@ -5,7 +5,7 @@
 </div> 
 
  
-<h3 align="center">Hi, I'm Firdaous, fullstack developer Junior</h3>   
+<h3 align="center">Hi, I'm Firdaous, fullstack developer</h3>   
     
 <br/>   
    
