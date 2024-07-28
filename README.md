@@ -88,6 +88,11 @@
 
 </td></tr></table>
 
+
+![](https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&count_private=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fridajoymatt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridajoymatt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <br/>
 
 <h2 align="center">My Project </h2>
