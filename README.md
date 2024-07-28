@@ -88,6 +88,7 @@
 
 </td></tr></table>
 
+# 📊GitHub Stats :
 
 ![](https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&count_private=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fridajoymatt&theme=radical&hide_border=false)<br/>
@@ -118,4 +119,6 @@
 </div>
 
 <br/>
+[![](https://visitcount.itsvg.in/api?id=fridajoymatt&icon=0&color=3)](https://visitcount.itsvg.in)
+
 <br/>
