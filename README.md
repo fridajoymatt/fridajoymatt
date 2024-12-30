@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="300" width="400" />
-</div>
+
+  <a href="https://laravel.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="300" width="300" /></a>
+  <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" /> 
+</div> 
 
 <h1 align="center">👋 Hello World! I'm Firdaous</h1>
 
@@ -62,7 +64,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fridajoymatt&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-1337-blueviolet?style=flat-square" alt="Profile views"/>
 </div>
 
 ---
