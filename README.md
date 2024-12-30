@@ -88,11 +88,13 @@
 
 </td></tr></table>
 
-# 📊GitHub Stats :
+<h1 align="center">📊GitHub Stats :</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&count_private=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fridajoymatt&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridajoymatt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&count_private=true&theme=radical" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fridajoymatt&theme=radical&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fridajoymatt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 <br/>
 
