@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <a href="https://laravel.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="300" width="300" /></a>
   <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" /> 
 </div> 
@@ -97,9 +97,9 @@
 <br/>
 
 <h2 align="center">My Project </h2>
-<p align="center">I am setting up a computer startup called STACKX Software, Technology, Applications, Design, and Kreativity. <br> 
-  STACKX will be responsible for providing computer solutions and will go even further in the future with embedded systems. I also create automations using the Notion tool for invoices, to-do lists, and more. <br> 
-  We also offer training and service provision services. This can expand later to include design services and photography (image processing studio), so that we can create multiple branches within STACKX, each with its own specialized team.<br> 
+<p align="center">I am setting up a computer startup called KREVX Software, Technology, Applications, Design, and Kreativity. <br> 
+  KREVX will be responsible for providing computer solutions and will go even further in the future with embedded systems. I also create automations using the Notion tool for invoices, to-do lists, and more. <br> 
+  We also offer training and service provision services. This can expand later to include design services and photography (image processing studio), so that we can create multiple branches within KREVX, each with its own specialized team.<br> 
   We will also build a customer service team that we can make available to our clients for whom we have developed web or mobile applications.</p>
 <br/> 
 
