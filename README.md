@@ -4,71 +4,119 @@
   <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" /> 
 </div> 
 
-<h1 align="center">👋 Hello World! I'm Firdaous</h1>
+ 
+<h3 align="center">Hi, I'm Firdaous, fullstack developer</h3>   
+    
+<br/>   
+   
+<p align="center">💻 Full-stack Developer Junior and customer support.</p>   
+ 
+<p align="center">🚀 Passionate about programming and technology.</p>   
 
-<p align="center">
-  <em>Full-stack Developer | Problem Solver | Tech Enthusiast</em>
-</p>
+<p align="center">🔭 I’m currently working on a Customer Support platform. And Programming Formation Plateform</p> 
 
-<p align="center">
-  <a href="https://linkedin.com/in/firdaous-kpelafia-131485277">
-    <img src="https://img.shields.io/badge/-Firdaous%20Kpelafia-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/fridajoymatt">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"/>
-  </a>
-</p>
+<p align="center">🌱 I’m currently learning React and React Native.</p> 
 
-### 🚀 About Me
+<p align="center">Bilingual Person (French | English)</p> 
 
-- 💻 Full-stack Developer with a passion for creating elegant solutions
-- 🌱 Currently mastering React and React Native
-- 🔭 Building a Customer Support platform & Programming Formation Platform
-- 🌍 Bilingual: French | English
-- ⚡ Founder of KREVX Software - Technology, Applications, Design & Creativity
+<br/> 
 
-### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<h2 align="center">My Skill Set</h2>
 
-### 📈 GitHub Stats
+<table align="center"><tr><td valign="top" width="33%">
 
+<h3 align="center">Languages</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fridajoymatt&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+  </a>
 </div>
 
-### 🌟 KREVX Software
+</td><td valign="top" width="33%">
 
-<p align="center">
-  Pioneering the future of technology through innovative solutions:
-  - 🖥️ Custom Software Development
-  - 📱 Mobile Applications
-  - 🎨 Creative Design
-  - 🤖 Process Automation
-  - 📚 Technical Training
-  - 🎯 Customer Support Excellence
-</p>
-
+<h3 align="center">Front End</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1337-blueviolet?style=flat-square" alt="Profile views"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  </a>
+  <a href="https://www.tailwindcss.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img style="margin: 10px" src="https://vuejs.org/images/logo.png" alt="Vue.js" height="50" />
+  </a>
 </div>
 
----
+</td><td valign="top" width="33%">
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
+<h3 align="center">Back End</h3>
+<div align="center">
+  <a href="https://www.mysql.com/fr/" target="_blank">
+    <img style="margin: 10px" src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" alt="Mysqk" height="50" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="postgresql" width="40" height="40" />
+  </a>
+</div>
+
+</td>
+
+</td><td valign="top" min-width="33%">
+
+<h3 align="center">CMS</h3>
+<div align="center">
+  <a href="https://www.mysql.com/fr/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="Node.js" height="50" />
+  </a>
+</div>
+
+</td></tr></table>
+
+# 📊GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=fridajoymatt&show_icons=true&count_private=true&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fridajoymatt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fridajoymatt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br/>
+
+<h2 align="center">My Project </h2>
+<p align="center">I am setting up a computer startup called KREVX Software, Technology, Applications, Design, and Kreativity. <br> 
+  KREVX will be responsible for providing computer solutions and will go even further in the future with embedded systems. I also create automations using the Notion tool for invoices, to-do lists, and more. <br> 
+  We also offer training and service provision services. This can expand later to include design services and photography (image processing studio), so that we can create multiple branches within KREVX, each with its own specialized team.<br> 
+  We will also build a customer service team that we can make available to our clients for whom we have developed web or mobile applications.</p>
+<br/> 
+
+
+<h2 align="center">Connect with me</h2>
+
+<div align="center">
+  <a href="https://github.com/fridajoymatt/" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://dev.to/fridajoymatt" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/firdaous-kpelafia-131485277/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+
+<br/>
