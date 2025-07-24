@@ -1,7 +1,7 @@
 <div align="center">
 
- <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" align="center" height="100" width="100" alt="Next.js" />
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://nestjs.com/img/logo-small.svg" align="center" height="100" width="100" alt="NestJS" />
   </a>
   <img src="https://i.ibb.co/sPnPMfc/react-gif.gif" align="center" height="300" width="300" /> 
 </div> 
@@ -78,6 +78,8 @@
 </div>
 
 </td>
+
+
 
 </td><td valign="top" min-width="33%">
 
